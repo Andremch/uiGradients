@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Libertas",
+        "colors": ["#ffcec7", "#dfcdcd", "#fdfce9", "#6d6d6d", "#c0cdcd"]
     }
-]
+]  
